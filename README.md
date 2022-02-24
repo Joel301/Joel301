@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-badges : https://www.codewars.com/users/Joel301/badges/large
-
 - 🌱 I’m currently learning at codewars
+
+  ![badge](https://www.codewars.com/users/Joel301/badges/large "badge").
+
+
 
 <!--
 **Joel301/Joel301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
