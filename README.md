@@ -1,6 +1,9 @@
-### Hi there 👋
+# Joel Aguilar
+## FullStack-Web Developer
 
-Hi, I'am Joel de Nuevo León, México. 💻I'am a Full-stack developer excited on technology. I enjoy solving problems and finding solutions or coming up with new ideas.
+Hi, I'am Joel de Nuevo León, México. 💻I'am a Full-stack developer excited on technology. I enjoy solving problems and finding solutions or coming up with new ideas. Native spanish speaker and C1 English level (Certificade)[https://www.efset.org/cert/Auvh8v]
+
+Tecnologies that i know: Javascript, Python, React.js, Redux, Express.js, Selenium, Node.js, SQL, HTML, CSS
 
 - Contact Info:
 - Email: [joel3.1416@gmail.com](mailto:joel3.1416@gmail.com)
