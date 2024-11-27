@@ -9,6 +9,9 @@ Tecnologies that i know: Javascript, Python, React.js, Redux, Express.js, Seleni
 - Email: [joel3.1416@gmail.com](mailto:joel3.1416@gmail.com)
 - Linkedin: [Joel Aguilar](https://www.linkedin.com/in/joel-aguilar/)
 
+- LeetCode: [Joel301](https://leetcode.com/u/Joel301/)
+
+
 - 🌱 I’m currently learning at codewars
 
   ![badge](https://www.codewars.com/users/Joel301/badges/large "badge").
